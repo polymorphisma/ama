@@ -94,7 +94,6 @@ builds/
 env_to_param_store.py
 ssm-param-store.tf
 .env
-.env.example
 __pycache__
 ansible/roles/nginx/vars/main.yml
 .flake8
