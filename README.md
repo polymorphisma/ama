@@ -24,9 +24,7 @@ To set up and run the app, please follow these steps:
    poetry shell
    ```
 
-4. Change URL for the postgrsql database in the .env file.
-
-5. Run Fast api app using following command:
+4. Run Fast api app using following command:
    ```shell
-      python -m app
+      python -m main
    ```
